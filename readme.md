@@ -40,3 +40,13 @@ OpenCode is an **open-source AI coding agent** designed for use in the terminal.
 | **Session Sharing** | `/share` generates public URL  | Not built-in                     |
 | **IDE Integration** | VS Code, Cursor, any terminal  | Terminal only                    |
 | **Cost**            | Free (bring your own API key)  | Claude subscription required     |
+
+
+**Installation**
+open cmd: npm i -g opencode-ai@latest
+opencode --version
+scoope install opencode
+
+change model: /model  
+
+ollama api keys: ollama.com/settings  
