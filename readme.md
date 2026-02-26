@@ -24,6 +24,9 @@ OpenCode is an **open-source AI coding agent** designed for use in the terminal.
 **Privacy First**
 * Local models → GPT-OSS 20B
 * Built-in agents
+* Test plan, test cases, code, Selenium framework, Playwright, and anything in the terminal with the IDE.
+
+  
 
 | Feature             | OpenCode                       | Claude Code                      |
 | ------------------- | ------------------------------ | -------------------------------- |
