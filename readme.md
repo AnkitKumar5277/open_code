@@ -50,3 +50,6 @@ scoope install opencode
 change model: /model  
 
 ollama api keys: ollama.com/settings  
+
+opencode --version
+opencode models
