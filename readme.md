@@ -53,3 +53,5 @@ ollama api keys: ollama.com/settings
 
 opencode --version
 opencode models
+
+create AGENTS.md: /init
