@@ -65,3 +65,8 @@ then paste chatgpt output in opencode
 <img width="186" height="251" alt="image" src="https://github.com/user-attachments/assets/290764c9-8c89-429f-9539-1557b60a3f64" />
 
 <img width="1470" height="840" alt="image" src="https://github.com/user-attachments/assets/e0ad613e-95bc-40e3-b3f4-19d09dcb7541" />
+
+you can change model: https://console.groq.com/playground
+
+search model and change:
+<img width="672" height="249" alt="image" src="https://github.com/user-attachments/assets/a237851f-273c-486c-b2c8-c67778768b1a" />
