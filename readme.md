@@ -55,3 +55,9 @@ opencode --version
 opencode models
 
 create AGENTS.md: /init
+
+<img width="431" height="225" alt="image" src="https://github.com/user-attachments/assets/04e3676e-d892-4ebf-9c2d-0f26f1588713" />
+
+in chatgpt: I want you to basically give me an enhanced prompt for OpenCode to create a test case generator where the user will submit an idea or a user story and the application will generate a test case from it. And this should be a very minimal application that uses the GroQ API. In this case, the user will enter the GROQ API key and will be able to generate test cases using the free model, which is Llama 3.0.
+
+then paste chatgpt output in opencode
