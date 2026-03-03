@@ -76,3 +76,5 @@ search model and change:
 next prompt: Please make sure that test cases are in a proper Jira format and you give them in a tabular form. Please change the UI.
  
 https://github.com/microsoft/playwright-mcp?tab=readme-ov-file
+
+open the app.vwo.com with the playwright mcp and enter the dummy username and password and click on the submit button and verify the error message
