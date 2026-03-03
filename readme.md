@@ -75,3 +75,4 @@ search model and change:
 
 next prompt: Please make sure that test cases are in a proper Jira format and you give them in a tabular form. Please change the UI.
  
+https://github.com/microsoft/playwright-mcp?tab=readme-ov-file
