@@ -74,3 +74,4 @@ search model and change:
 <img width="1342" height="586" alt="image" src="https://github.com/user-attachments/assets/066d3586-6996-488d-a80c-8fbf61c32c37" />
 
 next prompt: Please make sure that test cases are in a proper Jira format and you give them in a tabular form. Please change the UI.
+ 
