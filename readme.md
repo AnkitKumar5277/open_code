@@ -28,7 +28,9 @@ OpenCode is an **open-source AI coding agent** designed for use in the terminal.
 - opencode --version
 - opencode models
 - List all available models from CLI - opencode models
-- /theme  
+- /theme
+- /share - Share current session (generates link)
+- 
 
 # List all authenticated providers
 - opencode auth list
@@ -52,7 +54,8 @@ MCP (Model Context Protocol) lets you add external tools to OpenCode. For QA, th
 # MCP Management Commands
 - opencode mcp add              # Interactive MCP server setup
 - opencode mcp list             # List configured MCP servers
-
+- /mcp                          # View MCP server status
+  
 
 create AGENTS.md: /init
 
